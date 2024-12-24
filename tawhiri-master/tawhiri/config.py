@@ -1,0 +1,2 @@
+MAX_HOURS = 384
+SHAPE_HOURS = int(MAX_HOURS / 3 + 1)
